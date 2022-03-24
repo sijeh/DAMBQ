@@ -1,0 +1,6 @@
+extra/
+**/logs/**
+**/results/**
+**/runs/**
+**/*.pyc
+**/.DS_Store
