@@ -4,7 +4,7 @@ Pytorch implementation of CVPR2021 paper ["Distribution-aware Adaptive Multi-bit
 
 ## Note
 
-This code is the main source for the experiments in the paper. However, it is not elegant enough and hard to extend to other project. Therefore, we reconstruct this repo with plug-and-play manner, please refer to DAMBQV2.
+This code is the main source for the experiments in the paper. However, it is not elegant enough and hard to extend to other project. Therefore, It is deprecated and we reconstruct this algorithm with plug-and-play manner, please refer to [DAMBQV2](https://github.com/sijeh/DAMBQV2).
 
 ## Usage
 
